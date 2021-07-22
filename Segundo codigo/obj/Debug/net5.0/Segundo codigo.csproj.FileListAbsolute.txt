@@ -1,0 +1,16 @@
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\bin\Debug\net5.0\Segundo codigo.exe
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\bin\Debug\net5.0\Segundo codigo.deps.json
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\bin\Debug\net5.0\Segundo codigo.runtimeconfig.json
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\bin\Debug\net5.0\Segundo codigo.runtimeconfig.dev.json
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\bin\Debug\net5.0\Segundo codigo.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\bin\Debug\net5.0\ref\Segundo codigo.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\bin\Debug\net5.0\Segundo codigo.pdb
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.csproj.AssemblyReference.cache
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.GeneratedMSBuildEditorConfig.editorconfig
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.AssemblyInfoInputs.cache
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.AssemblyInfo.cs
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.csproj.CoreCompileInputs.cache
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\ref\Segundo codigo.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.pdb
+E:\digitalinnovationone\Take Blip Fullstack Developer\Primeiros passos com .NET + C#\Segundo codigo\obj\Debug\net5.0\Segundo codigo.genruntimeconfig.cache
